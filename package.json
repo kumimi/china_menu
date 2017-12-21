@@ -1,0 +1,24 @@
+{
+  "name": "china_menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-serve -c-1 -p 5500"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumimi/china_menu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumimi/china_menu/issues"
+  },
+  "homepage": "https://github.com/kumimi/china_menu#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "underscore": "^1.8.3"
+  }
+}
